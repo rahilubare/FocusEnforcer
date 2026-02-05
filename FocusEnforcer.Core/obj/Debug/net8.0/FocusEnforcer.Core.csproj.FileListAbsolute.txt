@@ -1,0 +1,13 @@
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\bin\Debug\net8.0\FocusEnforcer.Core.deps.json
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\bin\Debug\net8.0\FocusEnforcer.Core.dll
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\bin\Debug\net8.0\FocusEnforcer.Core.pdb
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.csproj.AssemblyReference.cache
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.AssemblyInfoInputs.cache
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.AssemblyInfo.cs
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.csproj.CoreCompileInputs.cache
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.sourcelink.json
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.dll
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\refint\FocusEnforcer.Core.dll
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\FocusEnforcer.Core.pdb
+c:\tmp\FocusEnforcer\FocusEnforcer.Core\obj\Debug\net8.0\ref\FocusEnforcer.Core.dll
